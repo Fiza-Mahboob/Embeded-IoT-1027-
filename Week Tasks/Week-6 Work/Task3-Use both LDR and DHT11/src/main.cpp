@@ -1,4 +1,4 @@
-//Task3-Mixed of LDR nad DHT11 Task
+// //Task3-Mixed of LDR nad DHT11 Task
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
