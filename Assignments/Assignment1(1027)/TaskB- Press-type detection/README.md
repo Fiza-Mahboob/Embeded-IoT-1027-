@@ -26,10 +26,10 @@ OLED SCL	GPIO 22	      I²C clock line
 VCC & GND	3.3 V & GND	  Power connections for OLED and components
 
 Screenshots
-![Circuit Diagram](Screenshots/Circuit%20Diagram.jpg)
+![Circuit Diagram](Screenshots/Circuit%20Diagram.png)
 ![Short Pressed-LED ON](Screenshots/ShortPressed-LED-ON.png)
 ![Short Pressed-LED OFF](Screenshots/ShortPressed-LED-OFF.png)
-![Long Pressed-Play Buzzer Tone](Screenshots/LongPresses-BuzzerTone)
+![Long Pressed-Play Buzzer Tone](Screenshots/LongPressed-BuzzerTone.png)
 
 
 Key Features
